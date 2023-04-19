@@ -1,8 +1,8 @@
-package wci.frontend;
+package uniJVM.frontend;
 
-import wci.intermediate.ICode;
-import wci.intermediate.SymTab;
-import wci.message.*;
+import uniJVM.intermediate.ICode;
+import uniJVM.intermediate.SymTab;
+import uniJVM.message.*;
 
 /**
  * <h1>Parser</h1>

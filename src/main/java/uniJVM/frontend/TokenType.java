@@ -1,4 +1,4 @@
-package wci.frontend;
+package uniJVM.frontend;
 
 /**
  * <h1>TokenType</h1>

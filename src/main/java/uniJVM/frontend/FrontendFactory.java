@@ -1,7 +1,7 @@
-package wci.frontend;
+package uniJVM.frontend;
 
-import wci.frontend.pascal.PascalParserTD;
-import wci.frontend.pascal.PascalScanner;
+import uniJVM.frontend.pascal.PascalParserTD;
+import uniJVM.frontend.pascal.PascalScanner;
 
 /**
  * <h1>FrontendFactory</h1>

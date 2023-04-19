@@ -1,4 +1,4 @@
-package wci.message;
+package uniJVM.message;
 
 /**
  * <h1>MessageListener</h1>

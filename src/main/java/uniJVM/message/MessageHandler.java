@@ -1,4 +1,4 @@
-package wci.message;
+package uniJVM.message;
 
 import java.util.ArrayList;
 

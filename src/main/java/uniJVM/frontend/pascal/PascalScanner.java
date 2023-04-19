@@ -1,7 +1,7 @@
-package wci.frontend.pascal;
+package uniJVM.frontend.pascal;
 
-import wci.frontend.*;
-import static wci.frontend.Source.EOF;
+import uniJVM.frontend.*;
+import static uniJVM.frontend.Source.EOF;
 
 /**
  * <h1>PascalScanner</h1>

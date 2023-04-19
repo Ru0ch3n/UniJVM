@@ -1,12 +1,10 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-import wci.frontend.*;
-import wci.intermediate.*;
-import wci.backend.*;
-import wci.message.*;
-
-import static wci.message.MessageType.*;
+import uniJVM.frontend.*;
+import uniJVM.intermediate.*;
+import uniJVM.backend.*;
+import uniJVM.message.*;
 
 /**
  * <h1>Pascal</h1>

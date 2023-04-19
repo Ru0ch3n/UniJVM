@@ -1,10 +1,10 @@
-package wci.frontend;
+package uniJVM.frontend;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 
-import wci.message.*;
-import static wci.message.MessageType.SOURCE_LINE;
+import uniJVM.message.*;
+import static uniJVM.message.MessageType.SOURCE_LINE;
 
 /**
  * <h1>Source</h1>

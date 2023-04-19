@@ -1,9 +1,9 @@
-package wci.frontend.pascal;
+package uniJVM.frontend.pascal;
 
-import wci.frontend.*;
-import wci.message.Message;
+import uniJVM.frontend.*;
+import uniJVM.message.Message;
 
-import static wci.message.MessageType.PARSER_SUMMARY;
+import static uniJVM.message.MessageType.PARSER_SUMMARY;
 
 /**
  * <h1>PascalParserTD</h1>

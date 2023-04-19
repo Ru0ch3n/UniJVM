@@ -1,11 +1,11 @@
-package wci.backend.compiler;
+package uniJVM.backend.compiler;
 
-import wci.backend.*;
-import wci.intermediate.ICode;
-import wci.intermediate.SymTab;
-import wci.message.*;
+import uniJVM.backend.*;
+import uniJVM.intermediate.ICode;
+import uniJVM.intermediate.SymTab;
+import uniJVM.message.*;
 
-import static wci.message.MessageType.COMPILER_SUMMARY;
+import static uniJVM.message.MessageType.COMPILER_SUMMARY;
 
 /**
  * <h1>CodeGenerator</h1>

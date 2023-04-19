@@ -1,4 +1,4 @@
-package wci.intermediate;
+package uniJVM.intermediate;
 
 /**
  * <h1>SymTab</h1>

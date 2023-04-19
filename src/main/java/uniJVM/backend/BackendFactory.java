@@ -1,7 +1,7 @@
-package wci.backend;
+package uniJVM.backend;
 
-import wci.backend.compiler.CodeGenerator;
-import wci.backend.interpreter.Executor;
+import uniJVM.backend.compiler.CodeGenerator;
+import uniJVM.backend.interpreter.Executor;
 
 /**
  * <h1>BackendFactory</h1>
