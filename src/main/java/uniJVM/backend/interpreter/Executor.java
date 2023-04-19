@@ -12,7 +12,7 @@ import static uniJVM.message.MessageType.INTERPRETER_SUMMARY;
  *
  * <p>The executor for an interpreter back end.</p>
  *
- * <p>Copyright (c) 2009 by Ronald Mak</p>
+ * under developing
  * <p>For instructional purposes only.  No warranties.</p>
  */
 public class Executor extends Backend

@@ -8,7 +8,7 @@ import static uniJVM.frontend.Source.EOF;
  *
  * <p>The Pascal scanner.</p>
  *
- * <p>Copyright (c) 2009 by Ronald Mak</p>
+ * under developing
  * <p>For instructional purposes only.  No warranties.</p>
  */
 public class PascalScanner extends Scanner

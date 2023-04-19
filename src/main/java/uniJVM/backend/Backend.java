@@ -9,7 +9,7 @@ import uniJVM.message.*;
  *
  * <p>The framework class that represents the back end component.</p>
  *
- * <p>Copyright (c) 2009 by Ronald Mak</p>
+ * under developing
  * <p>For instructional purposes only.  No warranties.</p>
  */
 public abstract class Backend implements MessageProducer

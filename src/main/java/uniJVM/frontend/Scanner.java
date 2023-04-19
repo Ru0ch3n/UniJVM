@@ -6,7 +6,7 @@ package uniJVM.frontend;
  * <p>A language-independent framework class.  This abstract scanner class
  * will be implemented by language-specific subclasses.</p>
  *
- * <p>Copyright (c) 2009 by Ronald Mak</p>
+ * under developing
  * <p>For instructional purposes only.  No warranties.</p>
  */
 public abstract class Scanner

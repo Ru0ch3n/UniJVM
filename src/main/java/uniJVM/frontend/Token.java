@@ -5,7 +5,7 @@ package uniJVM.frontend;
  *
  * <p>The framework class that represents a token returned by the scanner.</p>
  *
- * <p>Copyright (c) 2009 by Ronald Mak</p>
+ * under developing
  * <p>For instructional purposes only.  No warranties.</p>
  */
 public class Token

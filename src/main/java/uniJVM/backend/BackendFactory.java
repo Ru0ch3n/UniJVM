@@ -8,7 +8,7 @@ import uniJVM.backend.interpreter.Executor;
  *
  * <p>A factory class that creates compiler and interpreter components.</p>
  *
- * <p>Copyright (c) 2009 by Ronald Mak</p>
+ * under developing
  * <p>For instructional purposes only.  No warranties.</p>
  */
 public class BackendFactory

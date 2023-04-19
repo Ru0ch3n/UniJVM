@@ -12,7 +12,7 @@ import static uniJVM.message.MessageType.COMPILER_SUMMARY;
  *
  * <p>The code generator for a compiler back end.</p>
  *
- * <p>Copyright (c) 2009 by Ronald Mak</p>
+ * under developing
  * <p>For instructional purposes only.  No warranties.</p>
  */
 public class CodeGenerator extends Backend

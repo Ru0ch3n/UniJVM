@@ -11,7 +11,7 @@ import static uniJVM.message.MessageType.SOURCE_LINE;
  *
  * <p>The framework class that represents the source program.</p>
  *
- * <p>Copyright (c) 2009 by Ronald Mak</p>
+ * under developing
  * <p>For instructional purposes only.  No warranties.</p>
  */
 public class Source implements MessageProducer

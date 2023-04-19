@@ -10,7 +10,7 @@ import static uniJVM.message.MessageType.PARSER_SUMMARY;
  *
  * <p>The top-down Pascal parser.</p>
  *
- * <p>Copyright (c) 2009 by Ronald Mak</p>
+ * under developing
  * <p>For instructional purposes only.  No warranties.</p>
  */
 public class PascalParserTD extends Parser

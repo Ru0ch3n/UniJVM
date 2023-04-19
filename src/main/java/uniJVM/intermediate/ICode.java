@@ -5,7 +5,7 @@ package uniJVM.intermediate;
  *
  * <p>The framework interface that represents the intermediate code.</p>
  *
- * <p>Copyright (c) 2009 by Ronald Mak</p>
+ * under developing
  * <p>For instructional purposes only.  No warranties.</p>
  */
 public interface ICode

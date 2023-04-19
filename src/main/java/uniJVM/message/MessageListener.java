@@ -5,7 +5,7 @@ package uniJVM.message;
  *
  * <p>All classes that listen to messages must implement this interface.</p>
  *
- * <p>Copyright (c) 2009 by Ronald Mak</p>
+ * under developing
  * <p>For instructional purposes only.  No warranties.</p>
  */
 public interface MessageListener

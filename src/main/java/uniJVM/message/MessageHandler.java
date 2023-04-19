@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * <p>A helper class to which message producer classes delegate the task of
  * maintaining and notifying listeners.</p>
  *
- * <p>Copyright (c) 2009 by Ronald Mak</p>
+ * under developing
  * <p>For instructional purposes only.  No warranties.</p>
  */
 public class MessageHandler

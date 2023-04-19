@@ -11,7 +11,7 @@ import uniJVM.message.*;
  *
  * <p>Compile or interpret a Pascal source program.</p>
  *
- * <p>Copyright (c) 2009 by Ronald Mak</p>
+ * under developing
  * <p>For instructional purposes only.  No warranties.</p>
  */
 public class Pascal
